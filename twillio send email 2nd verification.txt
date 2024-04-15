@@ -1,0 +1,15 @@
+Note >  Go to Email id and search   (second verification) and ( app password )
+
+
+
+id - ankitsuryvanshi3@gmail.com
+
+password -    ssvacogcnvkbiwpv
+
+
+
+
+add dependency in pom file
+
+
+configuration  set id and password 
